@@ -1,0 +1,46 @@
+/* npm i will auto start up project and  install all librarys  */
+npm i 
+
+/* library  */
+- @react-native-async-storage/async-storage
+- @react-native-firebase/app
+- @react-native-firebase/auth
+- @react-navigation/bottom-tabs
+- @react-navigation/native
+- @react-navigation/native-stack
+- @react-navigation/stack
+- @react-stately/checkbox
+- @react-stately/collections
+- @react-stately/slider
+- @react-stately/tabs
+- @react-stately/toggle
+- axios
+- expo
+- expo-constants
+- expo-firebase-recaptcha
+- expo-image-picker
+- expo-status-bar
+- firebase
+- native-base
+- react
+- react-dom
+- react-native
+- react-native-appearance
+- react-native-calendars
+- react-native-gesture-handler
+- react-native-iphone-x-helper
+- react-native-popup-dialog
+- react-native-ratings
+- react-native-reanimated
+- react-native-safe-area-context
+- react-native-screens
+- react-native-shared-element
+- react-native-unimodules
+- react-native-uuid
+- react-native-vector-icons
+- react-native-web
+- react-native-webview
+- react-navigation-shared-element
+- react-redux
+- redux
+- socket.io-client
